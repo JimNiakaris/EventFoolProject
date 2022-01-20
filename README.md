@@ -7,3 +7,6 @@ such as Unit of Work and Repository Pattern. Inversion of Control(Dependency Inj
 Google Maps JavaScript API and Google Places API were used for the creation of the interactive events map. 
 Filtering of displayed data is achieved with AJAX calls. Paypal API is used for the completion of transactions. 
 Finally, Bootstrap 5, integrated into razor pages, was used for the implementation of front-end.
+
+Note------
+Google API key is not included, as well as the connection string for the database
